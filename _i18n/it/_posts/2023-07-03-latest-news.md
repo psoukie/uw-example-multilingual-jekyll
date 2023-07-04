@@ -1,6 +1,6 @@
 ---
-title: Latest News
+title: Ultime notizie
 layout: post
 cover: UW_campus.jpg
 ---
-We can create another article and make a change in an existing one at the same time.
+Possiamo creare un altro articolo e contemporaneamente apportare una modifica a uno esistente.
